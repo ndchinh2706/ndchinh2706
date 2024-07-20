@@ -5,8 +5,7 @@ self (
     works: ["undergraduate student", "tech-lover", "semi-semi-pro counter-strike player", "freelance developer"],
     location: "Hanoi, Vietnam",
     interests: {
-        "languages": ["golang", "csharp", "python", "cpp", ""],
-        "technologies": ["docker", "rpc", "redis", "memcached", "dragonfly", "postgresql"],
+        "languages": ["golang", "csharp", "python", "cpp"],
         "misc": ["competitive programming", "linux"]
     },
     contacts: {
