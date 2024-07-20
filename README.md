@@ -18,13 +18,4 @@ self (
 ```
 <details>
   <summary>More</summary>
-	
-## Statistics 💹
-[![Stats](/metrics.classic.svg "GitHub stats")](#)
-
-## Repositories 🌟
-[![Repositories](/metrics.plugin.repositories.svg "Repositories")](#)
-	
-## Website 🌐
-[![Website](/metrics.website.svg "Website")](https://nguyenchinh.dev)
 </details>
