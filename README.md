@@ -17,5 +17,6 @@ self (
 ```
 <details>
   <summary>More</summary>
-    <figure><embed src="https://wakatime.com/share/@e9f968da-f113-46fa-923a-ec14e02aef06/84a8fe4c-a568-4736-90dc-bda6456749d8.svg"></embed></figure>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </details>
