@@ -17,6 +17,5 @@ self (
 ```
 <details>
   <summary>More</summary>
-[    ![WakaTime Report](https://wakatime.com/share/@e9f968da-f113-46fa-923a-ec14e02aef06/84a8fe4c-a568-4736-90dc-bda6456749d8.svg)
-](https://wakatime.com/share/@e9f968da-f113-46fa-923a-ec14e02aef06/84a8fe4c-a568-4736-90dc-bda6456749d8.svg)
+    <img src="https://wakatime.com/share/@e9f968da-f113-46fa-923a-ec14e02aef06/84a8fe4c-a568-4736-90dc-bda6456749d8.svg" width="512"/>
 </details>
