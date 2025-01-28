@@ -1,3 +1,4 @@
+Happy new year 2025! 
 ```rust,ignore
 self (
     full_name: "Nguyen Dinh Chinh",
