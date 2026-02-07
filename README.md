@@ -9,7 +9,7 @@ self (
         "misc": ["competitive programming", "linux"]
     },
     contacts: {
-        "email": "chinhnd@bqtltvn.com",
+        "email": "chinhnd@gdscptit.dev",
         "facebook": "chysnh",
         "discord": "itsmendc",
     },
