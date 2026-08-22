@@ -2,7 +2,7 @@
 self (
     full_name: "Nguyen Dinh Chinh",
     aliases: ["ndchinh2706", "ndcbtw", "ndchysnh"],
-    works: ["undergraduate student", "freelance developer", "tech-lover", "semi-semi-pro counter-strike player"],
+    works: ["appoter ai-engineer", "undergraduate student"],
     location: "Hanoi, Vietnam",
     interests: {
         "languages": ["golang", "csharp", "python", "cpp"],
